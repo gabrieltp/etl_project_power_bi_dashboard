@@ -12,7 +12,7 @@ The database has report dates of when the disease was firt seen (report_date), l
 
 Below we can see a map of the studied cases of zika in some regions of the world.
 
-![map](D:\Documents\Projetos da Pós em BI\BI Anderson\map.png)
+![map](.\figs\map.png)
 
 The database can be found in https://github.com/cdcepi/zika 
 
@@ -20,5 +20,5 @@ The database can be found in https://github.com/cdcepi/zika
 
 After the required transformations in database, a Dashboard was created showing a filter of the type of zika cases, the total of cases studied, the total of cases in Brasil, the cases filtered by states in Brasil, the total of cases in 2016 in each region of the world and a pizza graph of the zika types.
 
-![dashboard](D:\Documents\Projetos da Pós em BI\BI Anderson\dashboard2.png)
+![dashboard](.\figs\dashboard2.png)
 
