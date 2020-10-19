@@ -2,7 +2,7 @@
 
 This project consists on Extracting, Transforming and Loading (ETL) data from kaggle's database of zika disease in some regions of the world.
 
-All the project is writen in Portuguese.
+All the project is written in Portuguese.
 
 The Zika virus disease, transmited mostly by the Aedes Aegypti mosquito, has infected thousands of people globally since 2015. Although it was discovered in an isolated region in Uganda on 1947, the lack of knowledge about the disease brought inumerous challenges for the cientific community to understand quickly its devastating effects, once the epidemy still grows and continues to spread today.
 
