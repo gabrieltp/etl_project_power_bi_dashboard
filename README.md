@@ -11,8 +11,9 @@ The database has report dates of when the disease was firt seen (report_date), l
 
 
 Below we can see a map of the studied cases of zika in some regions of the world.
-
-![map](./figs/map.png)
+<p align="center">
+  <img src="./figs/map.png"/>
+</p>
 
 The database can be found in https://github.com/cdcepi/zika 
 
