@@ -1,6 +1,6 @@
 # BUSINESS INTELLIGENCE ETL PROJECT
 
-This project consists in Extracting, Transforming and Loading (ETL) data from kaggle's database of zika disease in some regions of the world.
+This project consists on Extracting, Transforming and Loading (ETL) data from kaggle's database of zika disease in some regions of the world.
 
 All the project is writen in Portuguese.
 
